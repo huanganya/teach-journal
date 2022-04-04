@@ -28,6 +28,8 @@
 
 <a href="https://docs.google.com/document/d/1Mdpnr2owPIfNweP-585h9gG_6qRJ7o5y29WdMhK35w0/edit?usp=sharing">Day 1</a>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Issues
 
 No Issues
